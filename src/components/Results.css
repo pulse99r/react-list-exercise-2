@@ -1,0 +1,10 @@
+.results-container {
+  display:flex;
+  margin: 2px auto;
+  width: 100%;
+}
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:rgba(46, 40, 40, 0.792)
+}
+

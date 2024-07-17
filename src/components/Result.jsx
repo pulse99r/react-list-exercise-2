@@ -1,11 +1,12 @@
+import "./Result.css"
 
 const Result = ({result}) => {
   console.log(result)
   return (
-    <div>
-      <h1>{result.percentage}</h1>
-      <p>{result.title}</p>
-      <p>{result.description}</p>
+    <div className="result-card">
+      <h1 className="header">{result.percentage}</h1>
+      <p className="title">{result.title}</p>
+      <p className="description">{result.description}</p>
     </div>
   );
 }
