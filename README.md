@@ -37,7 +37,7 @@ const results = [
 - How can I keep my code DRY?
 - How can I segment this component to be reusable?
 
-
+**You can use any url for the link in the screenshot**
 
 
 
